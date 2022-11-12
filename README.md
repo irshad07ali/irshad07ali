@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @irshad07ali I am currently working as a Data Analyst at Innovaccer
+- 👋 Hi, I’m @irshad07ali I am currently working as a Data Analyst|Data Engineer at Innovaccer
 - 👀 I’m interested in Software Development and Data Science
 - 🌱 I’m currently brushing up my DSA and Data Analysis skills using python
 - 
