@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @irshad07ali I am currently working as a Data Analyst|Data Engineer at Innovaccer
 - 👀 I’m interested in Software Development and Data Science
-- 🌱 I’m currently brushing up my DSA and Data Analysis skills using python
+- 🌱 I have expertise in DSA (c++) and Data Analysis using python
 - 
-- 💞️ I’m looking to collaborate on anything related to Web development and Data Analysis.
+- 💞️ I’m looking to collaborate on anything related to Web development and Data Science,Data Analysis.
 - 📫 How to reach me : mail : ali7irshad@gmail.com 
 
 <!---
