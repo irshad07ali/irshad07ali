@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Data Science
 - 🌱 I have expertise in DSA (c++) and Data Analysis using SQL,python,PowerBI
 - 
-- 💞️  Data Science,Data Analysis.
+- 💞️  Data Science,Data Analysis,Data Engineering.
 - 📫  mail : ali7irshad@gmail.com 
 
 <!---
