@@ -2,8 +2,8 @@
 - 👀 I’m interested in Software Development and Data Science
 - 🌱 I have expertise in DSA (c++) and Data Analysis using SQL,python,PowerBI
 - 
-- 💞️ I’m looking to collaborate on anything related to Web development and Data Science,Data Analysis.
-- 📫 How to reach me : mail : ali7irshad@gmail.com 
+- 💞️  Data Science,Data Analysis.
+- 📫  mail : ali7irshad@gmail.com 
 
 <!---
 irshad07ali/irshad07ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
