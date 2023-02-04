@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @irshad07ali I am currently working as a Data Analyst|Data Engineer at Innovaccer
 - 👀 I’m interested in Software Development and Data Science
-- 🌱 I have expertise in DSA (c++) and Data Analysis using SQL,python,PowerBI
-- 
+- 🌱 I have expertise in DSA (c++) and Data Analysis using SQL,Python. Data Visualization Tools : PowerBI, Tableau.
+- Exploratory Data Analysis using Pandas, Numpy , Scikit , Matplotlib and other python libraries.
+
 - 💞️  Data Science,Data Analysis,Data Engineering.
 - 📫  mail : ali7irshad@gmail.com 
 - leetcode : https://leetcode.com/IrshadAli/
