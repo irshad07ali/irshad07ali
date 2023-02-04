@@ -4,6 +4,10 @@
 - 
 - 💞️  Data Science,Data Analysis,Data Engineering.
 - 📫  mail : ali7irshad@gmail.com 
+- leetcode : https://leetcode.com/IrshadAli/
+- hackerrank : https://www.hackerrank.com/ali7irshad
+- linkedin : https://www.linkedin.com/in/irshad-ali-4222b81a0/
+-
 
 <!---
 irshad07ali/irshad07ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
