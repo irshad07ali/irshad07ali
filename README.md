@@ -4,10 +4,12 @@
 - Exploratory Data Analysis using Pandas, Numpy , Scikit , Matplotlib and other python libraries.
 
 - 💞️  Data Science,Data Analysis,Data Engineering.
-- 📫  mail : ali7irshad@gmail.com 
+- 📫  mail : ali7irshad@gmail.com
+- linkedin : https://www.linkedin.com/in/irshad-ali-4222b81a0/
 - leetcode : https://leetcode.com/IrshadAli/
 - hackerrank : https://www.hackerrank.com/ali7irshad
-- linkedin : https://www.linkedin.com/in/irshad-ali-4222b81a0/
+- kaggle : https://www.kaggle.com/irshadali07
+- geeksforgeeks : https://www.geeksforgeeks.org/profile/irshad7982
 
 
 <!---
