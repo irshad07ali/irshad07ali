@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @irshad07ali I am currently working as a Data Analyst|Data Engineer at Acko
-- 👀 I’m interested in Software Development,Data Science and Machine Learning, Data Engineering, Data Analysis
-- 🌱 I have expertise in DSA (c++) and Data Analysis using SQL,Python. Data Visualization Tools : PowerBI, Tableau.
-- Exploratory Data Analysis using Pandas, Numpy , Scikit , Matplotlib and other python libraries.
+- 👋 Hi, I’m @irshad07ali I am currently working as a Decision Scientist at Phonepe
+- 👀 I’m interested in Data Science , Machine Learning , Fraud and Risk Data Analysis
+- I have expertise in Exploratory Data Analysis and Prediction Model Building using Pandas, Numpy , Scikit , Matplotlib and other python libraries.
+- I have worked on Languages :  SQL,Python. Data Visualization Tools : PowerBI, Tableau.
+- 🌱 I have good command over Data Structures and Algorithm . I like Problem Solving and exploring ways to simplify it
 
-- 💞️  Data Science,Data Analysis,Data Engineering.
+
+
+- Data Science,Data Analysis,Data Engineering.
 - 📫  mail : ali7irshad@gmail.com
 - linkedin : https://www.linkedin.com/in/irshad-ali-4222b81a0/
 - leetcode : https://leetcode.com/IrshadAli/
